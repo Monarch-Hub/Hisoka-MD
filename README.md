@@ -1,6 +1,6 @@
 ## INTRODUCTION
 <p align="center">
-    <img src="./media/Bg.jpeg" alt="Hisoka-MD PFP" width="400">
+    <img src="https://files.catbox.moe/b2he31.jpeg" alt="Hisoka-MD PFP" width="400">
 </p>
 <p align="center">Short Bio</p>
 <p>Hisoka-MD Whatsapp bot is a dynamic bit used to making your use of the Whatsapp app more fun and less stress. Due to the api/library used in this project isn't an Official Whatsapp api/library. I simply urge y'all yo use the bot with Utmost care. Thanks and Enjoy</p>
