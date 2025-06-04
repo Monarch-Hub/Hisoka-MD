@@ -6,6 +6,7 @@
 <p>Hisoka-MD Whatsapp bot is a dynamic bit used to making your use of the Whatsapp app more fun and less stress. Due to the api/library used in this project isn't an Official Whatsapp api/library. I simply urge y'all yo use the bot with Utmost care. Thanks and Enjoy</p>
 
 <p align="center"><img src="https://img.shields.io/github/stars/yourusername/yourrepo?style=social" /></p>
+
 ## USEFUL LINKS 
 <p>YouTube Tutorial: (Go deeper in the channel for tutorial that suits you): https://youtu.be/0WIyML9wjAA?si=m9j6Oax3cJj2Q40_ </p>
 <p>Pairing Site: https://pairhisoka.onrender.com </p>
